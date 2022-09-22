@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Raffael Henrique
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on peoples and companies
+ <h1 align="center">Olá, me chamo Raffael Henrique</h1>
 
-<!---
-raffaelhfarias/raffaelhfarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Sou extremamente apaixonado por Análise de Dados
+- 🌱 Atualmente estou aprendendo linguagens de programação
+- 💞️ Estou procurando colaborar com pessoas e empresas
+
