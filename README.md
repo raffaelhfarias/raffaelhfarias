@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raffaelhfarias
+- 👋 Hi, I’m Raffael Henrique
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on peoples and companies
