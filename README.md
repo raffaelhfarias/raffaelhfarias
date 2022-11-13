@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, me chamo Raffael Henrique, estou me aprofudando na área <strong>Cientista de Dados</strong>.<br>
-  Atualmente estudo na faculdade Descomplica - Ciência da Computação.<br>
-  Recentemente completei o curso na EBAC - Profissão cientisa de Dados, projeto completo em: Repositórios<br>
-  Em paralelo estou cursando o programa Cientista de Dados na prática do mestre Eduardo Rocha.<br>
+  Olá, me chamo Raffael Henrique, estou me aprofudando na área <strong>Cientista de Dados.</strong><br>
+  Atualmente estudo na faculdade <strong>Descomplica - Ciência da Computação.</strong><br>
+  Recentemente completei o curso na <strong>EBAC - Profissão Cientisa de Dados.</strong><br>
+  Em paralelo estou cursando o programa <strong>Cientista de Dados na Prática</strong> do mestre Eduardo Rocha.<br>
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong><br>
+  💼 Ferramentas: <strong>Algumas ferramentas de trabalho.</strong><br>
  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
