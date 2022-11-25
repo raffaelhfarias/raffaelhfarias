@@ -1,16 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, me chamo Raffael Henrique, estou me aprofudando na área <strong>Cientista de Dados.</strong><br>
-  Atualmente estudo na faculdade <strong>Descomplica - Ciência da Computação.</strong><br>
-  Recentemente completei o curso na <strong>EBAC - Profissão Cientisa de Dados.</strong><br>
-  Em paralelo estou cursando o programa <strong>Cientista de Dados na Prática</strong> do mestre Eduardo Rocha.<br>
+  Olá, me chamo Raffael Henrique, estou me aprofudando na área <strong>Cientista de Dados</strong>, 
+  atualmente estudo na faculdade <strong>Descomplica - Ciência da Computação.</strong>
+  recentemente completei o curso na <strong>EBAC - Profissão Cientisa de Dados</strong>, em paralelo estou cursando o programa <strong>Cientista de Dados na Prática</strong> do mestre Eduardo Rocha.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Linguagens.</strong><br>
+  <strong>Experiência com:</strong><br>
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
- <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
 <p align="left">
