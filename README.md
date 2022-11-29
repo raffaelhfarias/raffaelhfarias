@@ -24,3 +24,5 @@ Python, Machine Learning e Otimização Matemática.
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>  
 
 # Projetos:
+
+**Analisando dados do Airbnb:** [Notebook](https://github.com/raffaelhfarias/Dados_Airbnb)
