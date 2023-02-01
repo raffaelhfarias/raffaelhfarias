@@ -27,3 +27,7 @@ Python, Machine Learning e Otimização Matemática.
 
 **Analisando dados do Airbnb:** [Repositório](https://github.com/raffaelhfarias/Dados_Airbnb)<br>
 **Panorama COVID-19:** [Repositório](https://github.com/raffaelhfarias/Panorama_COVID-19)
+
+# Artigos:
+
+**Modelagem de risco de crédito com Machine Learning:** [Artigo](https://www.linkedin.com/pulse/modelagem-de-risco-cr%25C3%25A9dito-com-machine-learning-raffael-henrique/?trackingId=B0yknWluRGyXBPjCk0fO%2BA%3D%3D)
