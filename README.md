@@ -7,7 +7,7 @@
 # Raffael Henrique
 <sub>*Cientista de Dados* formado pela EBAC - Escola Britânica de Artes Criativas e Tecnologia</sub>
 
-Estou me aprofudando na área Cientista de Dados, atualmente estudo na faculdade Descomplica - Ciência da Computação, recentemente completei o curso na EBAC - Profissão Cientisa de Dados, em paralelo estou cursando o programa Cientista de Dados na Prática do mestre Eduardo Rocha.
+Estou me aprofudando na área Cientista de Dados, atualmente estudo na faculdade Descomplica - Ciência da Computação, recentemente **completei** o curso na EBAC - Profissão: Cientisa de Dados.
 
 **Experiência com:**
 Python, Machine Learning e Otimização Matemática.
