@@ -30,5 +30,5 @@ Python, Machine Learning e Otimização Matemática.
 
 # Artigos:
 
-**Modelagem de risco de crédito com Machine Learning:** [Artigo](https://www.linkedin.com/pulse/modelagem-de-risco-cr%25C3%25A9dito-com-machine-learning-raffael-henrique/?trackingId=B0yknWluRGyXBPjCk0fO%2BA%3D%3D)
+**Modelagem de risco de crédito com Machine Learning:** [Artigo](https://www.linkedin.com/pulse/modelagem-de-risco-cr%25C3%25A9dito-com-machine-learning-raffael-henrique/?trackingId=B0yknWluRGyXBPjCk0fO%2BA%3D%3D)<br>
 **Qual é a importância da visualização de dados?** [Artigo](https://www.linkedin.com/pulse/qual-%25C3%25A9-import%25C3%25A2ncia-da-visualiza%25C3%25A7%25C3%25A3o-de-dados-raffael-henrique/?trackingId=Zm%2FYj9F8RPauE9VvorbeNQ%3D%3D)
