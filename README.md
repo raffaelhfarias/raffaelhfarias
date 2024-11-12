@@ -26,7 +26,7 @@ Python, Machine Learning e Otimização Matemática.
 # Projetos:
 
 **Analisando dados do Airbnb:** [Repositório](https://github.com/raffaelhfarias/Dados_Airbnb)<br>
-**Panorama COVID-19:** [Repositório](https://github.com/raffaelhfarias/Panorama_COVID-19)
+**Panorama COVID-19:** [Repositório](https://github.com/raffaelhfarias/Panorama_COVID-19)<br>
 **Churn Prediction:** [Repositório](https://github.com/raffaelhfarias/churnPrediction)
 
 # Artigos:
