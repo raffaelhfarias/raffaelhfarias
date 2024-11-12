@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<img alt="Colaboratory logo" width="15%" src="https://raw.githubusercontent.com/carlosfab/escola-data-science/master/img/novo_logo_bg_claro.png">
+<img alt="Colaboratory logo" width="20%" src="https://raw.githubusercontent.com/raffaelhfarias/raffaelhfarias/refs/heads/main/raffaelhenrique.png">
 <sub>*Cientista de Dados* formado pela EBAC - Escola Britânica de Artes Criativas e Tecnologia</sub>
 
 Estou me aprofudando na área Cientista de Dados, atualmente estudo na faculdade Descomplica - Ciência da Computação, recentemente **completei** o curso na EBAC - Profissão: Cientisa de Dados.
