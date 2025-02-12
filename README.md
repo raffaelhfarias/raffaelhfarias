@@ -10,7 +10,7 @@
 Estou me aprofudando na área Cientista de Dados, atualmente estudo na faculdade Descomplica - Ciência da Computação, recentemente **completei** o curso na EBAC - Profissão: Cientisa de Dados.
 
 **Experiência com:**
-Python, Machine Learning e Otimização Matemática.
+Python, Machine Learning, Análise de Dados, Ciência de Dados.
 
 # Links:
 
@@ -25,6 +25,7 @@ Python, Machine Learning e Otimização Matemática.
 
 # Projetos:
 
+**Sistema de Recomendação de Filmes:** [Repositório](https://github.com/raffaelhfarias/recomenda-o)<br>
 **Analisando dados do Airbnb:** [Repositório](https://github.com/raffaelhfarias/Dados_Airbnb)<br>
 **Panorama COVID-19:** [Repositório](https://github.com/raffaelhfarias/Panorama_COVID-19)<br>
 **Churn Prediction:** [Repositório](https://github.com/raffaelhfarias/churnPrediction)
