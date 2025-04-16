@@ -25,7 +25,8 @@ Python, Machine Learning, Análise de Dados, Ciência de Dados.
 
 # Projetos:
 
-²⁰²⁵ **Sistema de Recomendação de Filmes:** [Repositório](https://github.com/raffaelhfarias/recomenda-o)<br>
+**Análise do Preço da Gasolina no Brasil:** [Repositório](https://github.com/raffaelhfarias/gasolina-preco)
+**Sistema de Recomendação de Filmes:** [Repositório](https://github.com/raffaelhfarias/recomenda-o)<br>
 **Analisando dados do Airbnb:** [Repositório](https://github.com/raffaelhfarias/Dados_Airbnb)<br>
 **Panorama COVID-19:** [Repositório](https://github.com/raffaelhfarias/Panorama_COVID-19)<br>
 **Churn Prediction:** [Repositório](https://github.com/raffaelhfarias/churnPrediction)
