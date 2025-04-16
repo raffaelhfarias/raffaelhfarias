@@ -7,10 +7,10 @@
 <img alt="Colaboratory logo" width="20%" src="https://raw.githubusercontent.com/raffaelhfarias/raffaelhfarias/refs/heads/main/raffaelhenrique.png">
 <sub>*Cientista de Dados* formado pela EBAC - Escola Britânica de Artes Criativas e Tecnologia</sub>
 
-Experiência sólida sendo Cientista de Dados & Analista de Dados, atualmente faço Ciência da Computação (Bacharelado | 8º Período), **completei** o curso na EBAC - Profissão: Cientisa de Dados.
+Experiência sólida sendo Cientista de Dados & Analista de Dados, atualmente faço Ciência da Computação (Bacharelado | 8º Período), **completei** o curso na EBAC - Profissão: Cientista de Dados. Se eu resumisse minhas habilidades essenciais, diria que eu sei **Coletar**, **Transformar** e **Mostrar** os dados de maneira totalmente eficiente!
 
 **Experiência com:**
-Python, Machine Learning, I.A, Análise de Dados, Ciência de Dados.
+Python, Machine Learning, I.A, Análise de Dados, Ciência dos Dados.
 
 # Links:
 
