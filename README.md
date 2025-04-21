@@ -17,7 +17,7 @@ Python, Machine Learning, I.A, Análise de Dados, Ciência dos Dados.
 <a href="https://raffaelhfarias.github.io/" alt="Portifolio">
 <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
-<a href="https://www.linkedin.com/in/raffael-henrique-59922520a/" alt="Linkedin">
+<a href="https://www.linkedin.com/in/raffael-henrique" alt="Linkedin">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <a href="mailto:raffaelhfarias@gmail.com" alt="Gmail">
